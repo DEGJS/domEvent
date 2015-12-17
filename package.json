@@ -1,6 +1,6 @@
 {
 	"name": "domEvent",
-	"main": "slipnslide.js",
+	"main": "domEvent.js",
 	"jspm": {
   		"format": "es6",
   		"registry": "jspm"
