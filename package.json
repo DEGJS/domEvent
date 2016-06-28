@@ -1,8 +1,28 @@
 {
-	"name": "domEvent",
-	"main": "domEvent.js",
-	"jspm": {
-  		"format": "es6",
-  		"registry": "jspm"
-	}
+    "name": "domEvent",
+    "version": "1.0.1",
+    "description": "",
+    "keywords": [
+    	"DOM",
+    	"events",
+        "DEGJS"
+    ],
+    "author": {
+        "name": "Ryan Heap",
+        "email": "rheap@degdigital.com"
+    },
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DEGJS/domEvent.git"
+    },
+    "bugs": "https://github.com/DEGJS/domEvent/issues",
+    "jspm": {
+        "registry": "jspm",
+        "format": "es6",
+        "main": "domEvent.js",
+        "directories": {
+            "lib": "src"
+        }
+    }
 }
