@@ -1,7 +1,7 @@
 {
     "name": "domEvent",
-    "version": "1.0.1",
-    "description": "",
+    "version": "1.0.2",
+    "description": "A Promise-based event utility.",
     "keywords": [
     	"DOM",
     	"events",
