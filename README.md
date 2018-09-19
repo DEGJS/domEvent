@@ -12,7 +12,7 @@ $ npm install @degjs/dom-event
 
 ## Usage
 ``` javascript
-import domEvent from 'DEGJS/domEvent';
+import domEvent from 'DEGJS/dom-event';
 
 const element = document.querySelector('.some-element');
 
