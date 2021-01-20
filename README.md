@@ -1,4 +1,6 @@
 # DomEvent
+![Run Tests](https://github.com/DEGJS/domEvent/workflows/Run%20Tests/badge.svg)
+
 DomEvent is a Promise-based event utility. Essentially, it wraps a Promise around a DOM event handler and resolves the Promise when the DOM event is triggered. This is especially useful when combined with other Promises to perform some action after all Promises have succeeded.
 
 ## Install
@@ -40,7 +42,7 @@ The DOM event that will trigger the Promise's success.
 
 ## Browser Support
 
-Breakpoints depends on the following browser APIs:
+DomEvent depends on the following browser APIs:
 + [Promise](https://github.com/stefanpenner/es6-promise)
 
 To support legacy browsers, you'll need to include polyfills for the above APIs.
